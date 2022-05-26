@@ -1,2 +1,2 @@
-
-ls -apm | sort –d
+#!/bin/bash
+ls -apm | sort -d
