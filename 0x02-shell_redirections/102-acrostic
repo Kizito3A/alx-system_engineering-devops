@@ -1,2 +1,2 @@
 #!/bin/bash
-Cut -Cl | paste -s | tr -d "[:blank:]"
+cut -c1 | paste -s | tr -d "[:blank:]"
